@@ -36,5 +36,4 @@ ___
 - [ ] Tested in different resolutions
 - [ ] All the tests have passed
 - [ ] Tested on development URL
-- [ ] Checked code for unecessary code and comments
-- [ ] Checked code for unecessary duplication
+- [ ] Checked for code smells and false positives from sonarCloud
